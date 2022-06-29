@@ -1,0 +1,5 @@
+baseURL = "https://zzzzzz1212.github.io/"
+languageCode = "en"
+defaultContentLanguage = "zh-cn"
+title = "StrideDot"
+theme = "KeepIt"
